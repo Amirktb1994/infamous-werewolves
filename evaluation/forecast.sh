@@ -10,7 +10,7 @@
 
 export CUDA_CACHE_DISABLE=1
 
-group_name=energy_challenge
+group_name=infamous-werewolves
 group_workspace=/hkfs/work/workspace/scratch/bh6321-${group_name}
 
 data_dir=/hkfs/work/workspace/scratch/bh6321-energy_challenge/data
